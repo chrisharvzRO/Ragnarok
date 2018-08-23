@@ -1,0 +1,5 @@
+//Cervantes
+
+userid: YTU
+passwd: YTU3Nz
+map_ip: 66.70.190.39

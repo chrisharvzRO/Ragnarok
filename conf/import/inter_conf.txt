@@ -1,0 +1,8 @@
+//Cervantes
+
+//use_sql_db: yes
+login_server_pw: YTU3Nz
+ipban_db_pw: YTU3Nz
+char_server_pw: YTU3Nz
+map_server_pw: YTU3Nz
+log_db_pw: YTU3Nz
